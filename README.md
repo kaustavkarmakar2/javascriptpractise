@@ -1,5 +1,6 @@
 # javascriptpractise
-# Question1:The function getEldest should return the name of the eldest person in the given array.
+# Question1:
+The function getEldest should return the name of the eldest person in the given array.
 # Question2:
 In The Netherlands, many people go crazy about ice skating on the natural lakes.
 Unfortunately for those people it doesn't happen very often that this is possible.
